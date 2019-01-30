@@ -3,6 +3,8 @@ import java.util.Scanner;
 /**
  * Программа угадывания чисел.
  */
+
+
 public class Scanner_number {
     public static void main(String[] args) {
         int i = 0;
